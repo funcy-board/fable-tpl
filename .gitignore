@@ -1,0 +1,6 @@
+.paket
+paket_files
+node_modules
+public
+bin
+obj
