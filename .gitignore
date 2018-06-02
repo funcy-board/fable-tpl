@@ -2,6 +2,6 @@
 .paket/paket.bootstrapper.exe
 paket-files
 node_modules
-public
+output
 bin
 obj
